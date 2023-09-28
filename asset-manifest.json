@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TranNgocTien/pizza-menu.git/static/css/main.f7790c19.css",
+    "main.js": "/TranNgocTien/pizza-menu.git/static/js/main.8c0234d9.js",
+    "index.html": "/TranNgocTien/pizza-menu.git/index.html",
+    "main.f7790c19.css.map": "/TranNgocTien/pizza-menu.git/static/css/main.f7790c19.css.map",
+    "main.8c0234d9.js.map": "/TranNgocTien/pizza-menu.git/static/js/main.8c0234d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7790c19.css",
+    "static/js/main.8c0234d9.js"
+  ]
+}
